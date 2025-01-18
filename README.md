@@ -62,16 +62,6 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 
 ---
 
-## 🌟 Results
-
-The best-performing model achieved:
-- **Precision**: XX.XX%
-- **Recall**: XX.XX%
-- **AUC-ROC**: XX.XX%
-
-These results demonstrate the effectiveness of the selected techniques and the model's ability to identify fraudulent transactions while minimizing false positives.
-
----
 
 ## 🤝 Contributing
 
